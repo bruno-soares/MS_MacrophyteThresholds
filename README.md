@@ -7,8 +7,8 @@ Yasmin Canalli, Bruno E. Soares, and Cássia M. Sakuragui
 Accepted in Marine & Freshwater Research.
 
 ## To cite this data
-Data and R coding available in Zenodo: XXXX.
-Cite as: XXX
+Data and R coding available in Zenodo: 10.5281/zenodo.7470440.
+Cite as: Bruno Soares. (2022). bruno-soares/MS_MacrophyteThresholds: Macrophyte Thresholds in a Atlantic Forest wetland: first release (v1.0). Zenodo. https://doi.org/10.5281/zenodo.7470440
 
 ## Description
 Data and R coding to analyze the response of macrophytes to variation in transparency and depth in a Atlantic Forest wetland. These results are discussed in the manuscript  "Increasing depth reduces macrophyte coverage but increasing transparency promotes composition turnover through environmental thresholds", accepted for publication in Marine & Freshwater Research.
